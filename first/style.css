@@ -150,5 +150,5 @@ input[type="text"]+input[type="text"] {
 }
 p::selection {
 	color: green;
-	background-color: grey;
+	background-color: black;
 }
