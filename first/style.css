@@ -138,3 +138,17 @@ input[type="text"]+input[type="text"] {
     border: 4px solid #154252;
     z-index: 1;
 }
+.text-style li::selection{
+	color: red;
+	background-color: yellow;
+	
+}
+.text-hover li::selection{
+	color: yellow;
+	background-color: red;
+	
+}
+p::selection {
+	color: green;
+	background-color: black;
+}
