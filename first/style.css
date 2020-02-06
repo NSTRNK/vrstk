@@ -145,7 +145,7 @@ input[type="text"]+input[type="text"] {
 }
 .text-hover li::selection{
 	color: yellow;
-	background-color: red;
+	background-color: tomato;
 	
 }
 p::selection {
